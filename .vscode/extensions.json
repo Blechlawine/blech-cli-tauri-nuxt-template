@@ -1,8 +1,10 @@
 {
     "recommendations": [
-        "Vue.volar",
-        "Vue.vscode-typescript-vue-plugin",
+        "vue.volar",
+        "vue.vscode-typescript-vue-plugin",
         "lokalise.i18n-ally",
-        "pflannery.vscode-versionlens"
+        "pflannery.vscode-versionlens",
+        "rust-lang.rust-analyzer",
+        "serayuzgur.crates"
     ]
 }
