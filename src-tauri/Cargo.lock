@@ -1558,18 +1558,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "musicplayer"
-version = "0.1.0"
-dependencies = [
- "rspc",
- "serde",
- "serde_json",
- "tauri",
- "tauri-build",
- "tokio",
-]
-
-[[package]]
 name = "ndk"
 version = "0.6.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -2741,6 +2729,18 @@ dependencies = [
  "syn 1.0.109",
  "tauri-codegen",
  "tauri-utils",
+]
+
+[[package]]
+name = "tauri-nuxt"
+version = "0.1.0"
+dependencies = [
+ "rspc",
+ "serde",
+ "serde_json",
+ "tauri",
+ "tauri-build",
+ "tokio",
 ]
 
 [[package]]

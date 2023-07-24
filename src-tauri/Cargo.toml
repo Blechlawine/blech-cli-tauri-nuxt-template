@@ -1,11 +1,11 @@
 [package]
-name = "musicplayer"
+name = "tauri-nuxt"
 version = "0.1.0"
-description = "A musicplayer"
+description = "A template with Nuxt and Tauri"
 authors = ["Blechlawine"]
 license = ""
 repository = ""
-default-run = "musicplayer"
+default-run = "tauri-nuxt"
 edition = "2021"
 rust-version = "1.60"
 
