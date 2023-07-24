@@ -13,10 +13,6 @@
     "devDependencies": {
         "@nuxtjs/i18n": "^8.0.0-beta.12",
         "@tauri-apps/cli": "^1.4.0",
-        "@unocss/preset-attributify": "^0.53.3",
-        "@unocss/preset-icons": "^0.53.3",
-        "@unocss/preset-typography": "^0.53.3",
-        "@unocss/preset-wind": "^0.53.3",
         "nuxt": "^3.6.0",
         "rome": "^12.1.3"
     },
